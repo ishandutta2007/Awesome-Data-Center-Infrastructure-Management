@@ -1,6 +1,6 @@
 # Awesome-Data-Center-Infrastructure-Management
 
-# Top Data Center Infrastructure Management (DCIM) Ecosystem
+## Top Data Center Infrastructure Management (DCIM) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Asset Tracking, Capacity Planning & Infrastructure Visualization*  
