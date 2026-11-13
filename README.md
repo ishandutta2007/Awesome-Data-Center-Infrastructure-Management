@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global Data Center Infrastructure Management (DCIM) market is valued at approximately **$3.5 billion to $4.3 billion** and is projected to expand past **$12 billion by the early 2030s** at an estimated CAGR of **15% to 18%**, accelerated by massive AI compute density, liquid cooling deployments, and ESG energy compliance requirements. The industry exhibits **moderate fragmentation with high concentration at the top physical infrastructure tier**—dominated by multinational power and thermal giants (Schneider Electric, Vertiv, Eaton, ABB) that lock in facility hardware—alongside a vibrant, fragmented tier of specialized independent software vendors (ISVs) and open-source platforms competing for vendor-agnostic IT monitoring, digital twins, and network automation.
 
 ## SaaS/Hosted Platforms
 
