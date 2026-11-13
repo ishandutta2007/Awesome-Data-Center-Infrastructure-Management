@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Center-Infrastructure-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Center-Infrastructure-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Center-Infrastructure-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,7 +61,7 @@ The global Data Center Infrastructure Management (DCIM) market is valued at appr
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[NetBox](https://github.com/netbox-community/netbox)** | [![Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers) | **The world's most widely adopted open-source infrastructure source of truth.** Apache-2.0, Django/Python. Combines IPAM (IP address management) with DCIM (racks, devices, cabling, power) into a unified data model. **Trusted by 10,000+ organizations** including CoreWeave for hyperscale datacenter builds [citation:4]. Plugin architecture enables extensions for floorplan visualization, rack management, and custom workflows [citation:9]. The default choice for network engineers and infrastructure teams needing an API-first, automation-ready platform [citation:11]. |
 | **[phpIPAM](https://github.com/phpipam/phpipam)** | [![Stars](https://img.shields.io/github/stars/phpipam/phpipam?style=social&color=white)](https://github.com/phpipam/phpipam/stargazers) | **Robust, open-source IP address management (IPAM) and rack management tool.** GPLv3, PHP/MySQL. Features full visual rack elevation drawings, subnet calculators, device module tracking, VLAN/VRF management, circuit tracking, and REST API integration for server room and datacenter documentation. |
