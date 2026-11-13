@@ -1,31 +1,48 @@
-# Awesome-Data-Center-Infrastructure-Management
+# Awesome Data Center Infrastructure Management (DCIM) 🏢⚡
 
-## Top Data Center Infrastructure Management (DCIM) Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Data Center Infrastructure Management (DCIM) Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Asset Tracking, Capacity Planning & Infrastructure Visualization*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Center-Infrastructure-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Center-Infrastructure-Management?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Center-Infrastructure-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Data Center Infrastructure Management (DCIM)**. These tools help operations teams document racks, servers, cabling, power, and cooling—providing the "single source of truth" needed for capacity planning, change management, and day-to-day datacenter operations.
+---
 
-**Examples** include Schneider Electric EcoStruxure IT, Sunbird DCIM, Nlyte, Vertiv Trellis, Device42, FNT Command, and open-source alternatives like NetBox, openDCIM, and Ralph (the category leaders).
+## 🌟 Top Data Center Infrastructure Management (DCIM) Ecosystem
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted DCIM, open-source infrastructure documentation, and community-driven asset management—ideal for organizations seeking data sovereignty and predictable costs over per-rack or per-node enterprise licensing. The open-source DCIM landscape is genuinely functional: NetBox has become the de facto standard for network source-of-truth with 10,000+ organizations [citation:4], openDCIM provides a free GPLv3 DCIM application for physical infrastructure [citation:2], and Ralph offers full-featured asset management with DC visualization [citation:5].
+**Curated List of SaaS Platforms & Open-Source Infrastructure Software**  
+*Comprehensive directory for Data Center Asset Tracking, Rack Elevations, Cable Management, Power Monitoring, Thermal Capacity Planning & Infrastructure Visualization.*
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+> **Data Center Infrastructure Management (DCIM)** integrates IT assets, facilities management, electrical distribution (PDUs, UPSs), and HVAC thermal controls into a single authoritative source of truth. DCIM software prevents mission-critical downtime, accelerates hardware change management, minimizes stranded capacity, and ensures energy efficiency compliance (PUE, carbon tracking, and EU Energy Efficiency Directive standards).
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted DCIM Platforms](#️-saas--hosted-dcim-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🔧 Additional Specialized Infrastructure Tools](#-additional-specialized-infrastructure-tools)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
 
 The global Data Center Infrastructure Management (DCIM) market is valued at approximately **$3.5 billion to $4.3 billion** and is projected to expand past **$12 billion by the early 2030s** at an estimated CAGR of **15% to 18%**, accelerated by massive AI compute density, liquid cooling deployments, and ESG energy compliance requirements. The industry exhibits **moderate fragmentation with high concentration at the top physical infrastructure tier**—dominated by multinational power and thermal giants (Schneider Electric, Vertiv, Eaton, ABB) that lock in facility hardware—alongside a vibrant, fragmented tier of specialized independent software vendors (ISVs) and open-source platforms competing for vendor-agnostic IT monitoring, digital twins, and network automation.
 
-## SaaS/Hosted Platforms
+---
+
+## ☁️ SaaS & Hosted DCIM Platforms
 
 | Product | Description | Company Size (Revenue / Valuation) | Pricing (Starting) | Free Tier / Trial Limits |
 |---------|-------------|-----------------------------------|-------------------|--------------------------|
@@ -40,7 +57,9 @@ The global Data Center Infrastructure Management (DCIM) market is valued at appr
 | **[Cormant-CS](https://www.cormant.com/)** | DCIM with comprehensive physical layer cable management, connectivity, and asset tracking. Acquired by global facility manager BGIS in 2021. | ~$2.5M estimated revenue (Division of BGIS: ~$1B–$5B gross facility management revenue) | $5,000/year (Starter Pack entry tier supporting 25 to 80 racks with bundled instructor-led setup services; includes unlimited user seats) | 7-day hosted cloud trial (Pre-configured sample data environment; customized Proof-of-Concept PoC licenses provisioned upon request) |
 | **[Nlyte Software](https://www.nlyte.com/)** | AI-powered DCIM with outage prediction, what-if capacity planning, and intelligent asset placement. Acquired by Carrier Global Corporation in 2021. | Division of Carrier Global Corp. [NYSE: CARR, ~$40B market cap / $22B+ revenue] (Raised $53.5M prior to acquisition) | $20.00/rack/year baseline nominal entry quote (Custom enterprise contracts typically tiered by total power capacity and managed cabinets) | 14-day free trial (Nlyte On-Demand 2-week guided evaluation environment with sample data and tutorials) |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---------|------------|-------------|
@@ -53,31 +72,60 @@ The global Data Center Infrastructure Management (DCIM) market is valued at appr
 | **[openDCIM](https://github.com/opendcim/openDCIM)** | [![Stars](https://img.shields.io/github/stars/opendcim/openDCIM?style=social&color=white)](https://github.com/opendcim/openDCIM/stargazers) | **Free, GPLv3 DCIM application for physical infrastructure management.** PHP-based web application. Covers datacenter inventory management—rack elevations, device tracking, 3-phase power balancing, and space planning—without contending to be a function-by-function replacement for commercial DCIM [citation:2][citation:12]. Provides RESTful API (v4.2+) for integration with asset management platforms like Axonius [citation:6]. Docker and Helm deployment available [citation:2]. |
 | **[dcim-list](https://github.com/little-brother/dcim-list)** | [![Stars](https://img.shields.io/github/stars/little-brother/dcim-list?style=social&color=white)](https://github.com/little-brother/dcim-list/stargazers) | **Curated list of Data Center Infrastructure Management software and tools.** CC0-1.0. Community reference repository cataloging DCIM suites, monitoring platforms, asset databases, and cable management tools. |
 
-### Additional Specialized Tools
+---
+
+## 🔧 Additional Specialized Infrastructure Tools
 
 | Project | Description |
 |---------|-------------|
 | **[DRACS (Dell Rack & Asset Control System)](https://pypi.org/project/dracs/)** | Python-based tool for managing **Dell server fleets** with warranty tracking, BIOS/iDRAC firmware version monitoring, and SNMP-based discovery. Integrates with Dell TechDirect API for warranty data. Web UI with color-coded alerts for expiring warranties and outdated firmware. **Not general-purpose DCIM**—purpose-built for Dell hardware environments [citation:3][citation:10]. |
 | **[Tenqora](https://github.com/topics/rack-management)** | "Operations-first DCIM for racks, assets, connectivity, power and lifecycle" listed on GitHub's rack-management topic. Modern DCIM interface for tracking assets and power chains [citation:9]. |
 
-**Frameworks for building custom systems**: Choose **NetBox** for network-centric infrastructure with IPAM and plugin ecosystem, **openDCIM** for straightforward physical rack/device management on PHP hosting, and **Ralph** for full asset lifecycle tracking with CMDB and visualization—all deployable via Docker without per-rack or per-node licensing. For Dell-specific fleets, **DRACS** provides warranty and firmware tracking that general DCIM tools may not cover natively [citation:3].
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- DCIM platforms document critical infrastructure dependencies; inaccurate data can lead to capacity outages, cooling failures, or power overloads. Validate documentation against physical reality before relying on any tool for change planning.
-- **Open-source DCIM maturity varies.** NetBox is production-grade with hyperscale adoption [citation:4]. openDCIM is functional but has low community activity (10 contributors, ~1 month since last commit per Open Hub) [citation:12]. Ralph is maintained under a "sources only" model without guaranteed PR support [citation:5]. Commercial DCIM platforms (Schneider, Sunbird, Nlyte, Vertiv) are quote-only enterprise contracts with implementation services typically required. **Pricing transparency is limited**: netTerrain publishes **$4,926/year** [citation:1]; others require sales engagement.
+> **Frameworks for building custom systems**: Choose **NetBox** for network-centric infrastructure with IPAM and a thriving plugin ecosystem, **openDCIM** for straightforward physical rack/device management on standard PHP hosting, and **Ralph** for full asset lifecycle tracking with CMDB and visual DC layout—all deployable via Docker without per-rack or per-node licensing. For Dell-specific fleets, **DRACS** provides warranty and firmware tracking that general DCIM tools may not cover natively [citation:3].
 
 ---
 
-**Made for data center managers, infrastructure engineers, network architects, and developers building operations tooling.**  
-Let's make data center infrastructure management more open, documented, and reliable.
+## 🤝 How to Contribute
+
+Contributions are warmly welcome! Help make this curated DCIM resource the most accurate and up-to-date guide for operations teams:
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-dcim-tool`).
+3. 📝 **Add or edit entries in `README.md`** following the existing tabular structure (include product name, verified official URL, starting pricing, trial terms, and concise feature descriptions).
+4. ✅ **Ensure factual accuracy** and test all links.
+5. 🚀 **Submit a Pull Request** with a brief summary of additions or updates.
+
+⭐ Don't forget to star the repository if you found it useful!
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this repository! If this curated list helped you evaluate DCIM software, optimize your server room layouts, or build datacenter operations tooling, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve visibility on GitHub.
+- 🍴 **Fork and share** with colleagues, DevOps specialists, and data center engineers.
+- ☕ **Buy me a coffee & sponsor my work**: Visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to help support continuous curation and maintenance of open-source resources.
+
+Your support is deeply appreciated! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Data-Center-Infrastructure-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Data-Center-Infrastructure-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an **independent, community-curated** list — not an exhaustive catalog and not a commercial endorsement.
+- DCIM platforms document critical physical and electrical dependencies; inaccurate data can lead to capacity outages, cooling failures, or electrical overloads. Always validate digital documentation against physical datacenter reality before executing change planning.
+- **Open-source DCIM maturity varies**: NetBox is enterprise production-grade with hyperscale adoption [citation:4]. openDCIM is functional but community activity has slowed [citation:12]. Ralph is maintained under a "sources only" model without guaranteed PR support [citation:5]. Commercial DCIM platforms (Schneider Electric, Vertiv, Sunbird, Nlyte) generally operate on structured annual subscriptions and custom enterprise quotes.
+
+---
+
+<p align="center">
+  <b>Built for data center managers, infrastructure engineers, network architects, and operations developers.</b><br>
+  <i>Let's make data center infrastructure management more open, documented, and reliable.</i>
+</p>
